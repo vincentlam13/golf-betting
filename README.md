@@ -11,7 +11,10 @@
 
 ## Web Scraping
 
+## Golf Prediction
+
 ## To Do List
+- Test how successful the predictive score is for historic tournaments and the relevant data at that time. 
 - Automate the process of placing bets.
 - Keep record of real world results.
 - Reiterate metrics and add weightings to improve predictive score.
