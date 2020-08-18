@@ -2,7 +2,7 @@
 - Created a tool to predict likely winners of PGA tournaments.
 - Scraped PGA stats website for useful determinative data.
 - Created new metrics to predict winners based on domain knowledge.
-- Created a script to send the DataFrame csv file to google sheets.
+- Created a script to send the DataFrame csv file to google sheets, using gspread (a Python API for Google Sheets).
 
 ## Code and Resources Used
 **Python Version:** 3.8
