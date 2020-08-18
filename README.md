@@ -5,8 +5,9 @@
 - Created a script to send the DataFrame csv file to google sheets.
 
 ## Code and Resources Used
-Python Version: 3.8
-Packages: pandas, beautifulsoup, requests, gspread, oauth2client
+**Python Version:** 3.8
+
+**Packages:** pandas, beautifulsoup, requests, gspread, oauth2client
 
 ## Web Scraping
 
