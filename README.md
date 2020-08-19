@@ -13,6 +13,14 @@
 
 ## Golf Prediction
 
+## Testing Prediction Against Historic Tournaments
+
+| Year  | Tournament  | Golfer  | Predictive Ranking  | Real Position  |
+|---|---|---|---|---|
+| 2018  | The Open Championship  | Justin Rose  | 4  | 2  |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
 ## To Do List
 - Test how successful the predictive score is for historic tournaments and the relevant data at that time. 
 - Automate the process of placing bets.
