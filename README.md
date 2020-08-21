@@ -18,9 +18,12 @@
 
 | Year  | Tournament  | Golfer  | Predictive Ranking  | Real Position  |
 |---|---|---|---|---|
+|  2019 | The Open Championship  | Brooks Koepka  |  11 |  4 |
 | 2018  | The Open Championship  | Justin Rose  | 4  | 2  |
+| 2017  | The Open Championship |  Jordan Spieth | 4  |  1 |
 | 2017  | US Open  |  Rickie Fowler | 2  |  5 |
-|   |   |   |   |   |
+|  2016 | The Open Championship  | Sergio Garcia  | 6  | 5  |
+|  2014 | PGA Championship  | Rory Mcllroy  | 1  |  1 |
 
 ## To Do List
 - Test how successful the predictive score is for historic tournaments and the relevant data at that time. 
