@@ -19,7 +19,7 @@
 | Year  | Tournament  | Golfer  | Predictive Ranking  | Real Position  |
 |---|---|---|---|---|
 | 2018  | The Open Championship  | Justin Rose  | 4  | 2  |
-|   |   |   |   |   |
+| 2017  | US Open  |  Rickie Fowler | 2  |  5 |
 |   |   |   |   |   |
 
 ## To Do List
